@@ -60,6 +60,7 @@ user-select: none;
     font-size: 2.5em;
     letter-spacing: 4px;
     color: #FFF;
+    width: 100%;
 }
 .content .hr{
 	width: 50%;
